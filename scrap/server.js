@@ -150,7 +150,7 @@ const server = http.createServer((req, res) => {
   });
 });
 
-const port = process.env.PORT || 3000; // Use the specified port or default to 3000
+const port = process.env.PORT || 10000; // Use the specified port or default to 10000
 
 getEntries();
 
