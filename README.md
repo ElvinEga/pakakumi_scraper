@@ -1,6 +1,6 @@
 # Blaze crash game web srapping with Puppeteer
 
-A simple functionality for getting crash values from [Blaze](https://blaze.com/pt/games/crash) until you close the server.
+A simple functionality for getting crash values from Pakakumi until you close the server.
 
 # Getting started
 
@@ -15,9 +15,9 @@ Node 14.17.0
 Clone this repository and open its folder.
 
 ```
-git clone https://github.com/caickdias/blaze-crash-scrap.git
-cd blaze-crash-scrap
+git clone https://github.com/ElvinEga/pakakumi_scraper.git
 ```
+
 Then run npm install to install dependencies
 
 ```
@@ -39,7 +39,7 @@ node server
 
 First, make sure you have "type": "module" in your package.json. Then navigate to `./simulate` folder for running some simple bet simulations. Then run the command below.
 
-Inside 'data.js' should be an array of objects extracted from the server scrap data. 
+Inside 'data.js' should be an array of objects extracted from the server scrap data.
 'entries.js' will just get the values from each entry.
 
 ```
