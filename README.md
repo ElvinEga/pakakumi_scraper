@@ -1,4 +1,4 @@
-# Blaze crash game web srapping with Puppeteer
+# Pakakumi crash game web srapping with Puppeteer
 
 A simple functionality for getting crash values from Pakakumi until you close the server.
 
